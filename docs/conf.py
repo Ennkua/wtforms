@@ -31,10 +31,6 @@ html_context = {
     "project_links": [
         ProjectLink("PyPI Releases", "https://pypi.org/project/e-WTForms/"),
         ProjectLink("Source Code", "https://github.com/ennkua/e-wtforms/"),
-        ProjectLink(
-            "Discord Chat",
-            "https://discord.gg/F65P7Z9",
-        ),
         ProjectLink("Issue Tracker", "https://github.com/ennkua/e-wtforms/issues/"),
     ]
 }
