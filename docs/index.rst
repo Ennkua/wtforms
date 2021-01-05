@@ -1,3 +1,9 @@
+e-WTForms
+=========
+
+e-WTForms is an unofficial upgrade of WTForms library with more functionality.
+
+
 WTForms
 =======
 
