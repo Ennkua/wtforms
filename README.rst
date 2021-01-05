@@ -27,7 +27,7 @@ Install and update using pip:
 Links
 -----
 
--   Documentation: https://wtforms.readthedocs.io/
+-   Documentation: https://e-wtforms.readthedocs.io/
 -   Releases: https://pypi.org/project/e-WTForms/
 -   Code: https://github.com/ennkua/e-wtforms
 -   Issue tracker: https://github.com/ennkua/e-wtforms/issues
