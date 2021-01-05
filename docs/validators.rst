@@ -73,7 +73,7 @@ Built-in validators
 
 .. autoclass:: wtforms.validators.NoneOf
 
- e-WTForms edition
+e-WTForms edition
 ------------------
 
 .. autoclass:: wtforms.validators.DigitRequired
